@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "0.1.0",
+  "description": "The backend server for warlock-archive",
+  "main": "index.js",
+  "repository": "https://github.com/logic-warlock/warlock-archive.git",
+  "author": "Kaemon Lovendahl <kaemonlovendahl@outlook.com>",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

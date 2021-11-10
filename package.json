@@ -1,0 +1,12 @@
+{
+  "name": "warlock-archive",
+  "version": "0.1.0",
+  "description": "An application to create and share usable items in tabletop rpgs",
+  "main": "index.js",
+  "repository": "https://github.com/logic-warlock/warlock-archive.git",
+  "author": "Kaemon Lovendahl <kaemonlovendahl@outlook.com>",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "lerna": "^4.0.0"
+  }
+}
